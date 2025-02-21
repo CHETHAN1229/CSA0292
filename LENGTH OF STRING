@@ -1,0 +1,12 @@
+include<stdio.h>
+#include<string.h>
+int main()
+{
+    char a[30]="chethan";
+    char b[30]={'c','h','e','t','h','a','n','\0'};
+    printf("length of string a=%d\n",strlen(a));
+    printf("length of string b=%d\n",strlen(b));
+    return 0;
+}
+lenght of a=7
+Lenght of b=7
