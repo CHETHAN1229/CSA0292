@@ -25,3 +25,10 @@ int main() {
 
     return 0;
 }
+OUTPUT 
+Before swap in main function:
+x = 5, y = 10
+Inside swap function:
+a = 10, b = 5
+After swap in main function:
+x = 5, y = 10
