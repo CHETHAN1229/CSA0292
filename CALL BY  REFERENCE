@@ -20,3 +20,5 @@ int main() {
     return 0;
 }
 OUTPUT
+Inside swapx: x = 20 y = 10
+Inside main: a = 20 b = 10
