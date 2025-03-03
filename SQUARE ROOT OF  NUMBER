@@ -1,0 +1,19 @@
+
+#include <math.h>
+#include <stdio.h>
+
+
+int main()
+{
+  double Number;
+  Number = 256;
+
+  
+  double squareRoot = sqrt(Number);
+  
+  printf("The Square root of %.2lf = %.2lf", 
+          Number, squareRoot);
+  return 0;
+}
+OUTPUT
+The Square root of 256.00 = 16.00
